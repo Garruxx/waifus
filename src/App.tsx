@@ -1,7 +1,7 @@
 import "./App.css";
 import { IMG } from "./components/img/img";
 
-const imageFiles = Array.from({ length: 22 }, (_, index) => index + 1).map(
+const imageFiles = Array.from({ length: 26 }, (_, index) => index + 1).map(
   (index) => `${index}`
 );
 
